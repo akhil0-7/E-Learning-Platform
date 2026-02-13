@@ -18,7 +18,9 @@ Attend Quiz for each course
 Responsive and simple UI
 MongoDB database for storing courses and quiz data
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 e-learning-platform/
 │
 ├── backend/
@@ -52,6 +54,8 @@ e-learning-platform/
 │       └── App.js
 │
 └── README.md
+```
+
 
 
 ⚙️ Installation & Setup
