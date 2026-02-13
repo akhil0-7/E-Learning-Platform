@@ -20,7 +20,6 @@ MongoDB database for storing courses and quiz data
 
 📂 Project Structure
 e-learning-platform/
-e-learning-platform/
 │
 ├── backend/
 │   ├── models/
