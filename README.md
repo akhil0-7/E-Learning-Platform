@@ -63,14 +63,14 @@ e-learning-platform/
 git clone <https://github.com/akhil0-7/E-Learning-Platform>
 
 2️⃣ Backend Setup
-cd backend
-npm install
-node server.js
+`cd backend`
+`npm install`
+`node server.js`
 
 3️⃣ Frontend Setup
-cd frontend
-npm install
-npm start
+`cd frontend`
+`npm install`
+`npm start`
 
 ## 🌐 Usage Flow
 User logs in to the system
@@ -94,8 +94,8 @@ Progress tracking for students
 Video lessons integration
 
 ## 👨‍💻 Developed By
-Akhil AS
-Project – E-Learning Platform
+`Akhil AS`
+`Project – E-Learning Platform`
 
 ## 📜 License
 This project is developed for educational purposes only.
